@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# bootstrap environment
+source script/setup
+
+mocha --compilers coffee:coffee-script

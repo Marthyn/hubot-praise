@@ -1,0 +1,44 @@
+{
+  "name": "hubot-praise",
+  "description": "A hubot script that you can use to praise a coworker, send them an awesome gif and high five them",
+  "version": "0.1.0",
+  "author": "Marthyn Olthof",
+  "name": "hubot-praise",
+  "license": "MIT",
+
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "praise",
+    "high",
+    "five",
+    "coworker"
+  ],
+
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:marthyn/hubot-praise.git"
+  },
+
+  "bugs": {
+    "url": "https://github.com/marthyn/hubot-praise/issues"
+  },
+
+  "dependencies": {
+    "coffee-script": "*"
+  },
+
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "*",
+    "hubot": "*",
+    "sinon": "*",
+    "sinon-chai": "*"
+  },
+
+  "main": "index.coffee",
+
+  "scripts": {
+    "test": "script/test"
+  }
+}
