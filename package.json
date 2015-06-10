@@ -1,7 +1,7 @@
 {
   "name": "hubot-praise",
   "description": "A hubot script that you can use to praise a coworker, send them an awesome gif and high five them",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "author": "Marthyn Olthof",
   "name": "hubot-praise",
   "license": "MIT",
@@ -12,7 +12,10 @@
     "praise",
     "high",
     "five",
-    "coworker"
+    "coworker",
+    "hubot-highfive",
+    "hubot-motivate",
+    "gif"
   ],
 
   "repository": {
