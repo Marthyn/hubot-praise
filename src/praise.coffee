@@ -31,7 +31,7 @@ module.exports = (robot) ->
 
 
 praiseUser = (msg, robot) ->
-  user_name = msg.match[1].replace(/@?(.*)/, '$1')
+  user = msg.match[1].replace(/@?(.*)/, '$1')
   message = msg.match[3]
   current_user = msg.message.user.name
   if user == current_user
