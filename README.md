@@ -55,3 +55,7 @@ First and foremost, inspiration came from [Ben Straub](https://github.com/ben). 
 This script was heavily inspired by [hubot-motivate](https://github.com/hubot-scripts/hubot-motivate) and [hubot-highfive](https://github.com/wjbeckett/hubot-highfive). I used some code and some images and texts, but extended it with storage and more images and texts.
 
 Other than that, standard [MIT License](http://opensource.org/licenses/MIT)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Marthyn/hubot-praise/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
